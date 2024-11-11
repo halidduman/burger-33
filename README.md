@@ -5,7 +5,6 @@
 </div>
 
 Bu proje, React ile oluşturduğum ilk web sitesi çalışmasıdır. Site içerisinde toplam 4 sayfa bulunmaktadır: **Home**, **Menu**, **About**, ve **Contact**. Bu sayfalar arasında geçiş yaparken **React Router** kullanılmıştır.
-<<<<<<< HEAD
 
 <div align="center">
   <img src="src/assets/gif-2.gif" alt="Proje Görseli" width="500">
