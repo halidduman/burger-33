@@ -1,9 +1,37 @@
-# React + Vite
+# THE Burger
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img src="src/assets/Burger.svg" alt="Proje Görseli" width="300">
+</div>
 
-Currently, two official plugins are available:
+Bu proje, React ile oluşturduğum ilk web sitesi çalışmasıdır. Site içerisinde toplam 4 sayfa bulunmaktadır: **Home**, **Menu**, **About**, ve **Contact**. Bu sayfalar arasında geçiş yaparken **React Router** kullanılmıştır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# burger-33
+<div align="center">
+  <img src="src/assets/gif-2.gif" alt="Proje Görseli" width="500">
+</div>
+
+## Özellikler
+
+- **Responsive Tasarım**: Tüm sayfalar, farklı ekran boyutlarına uyumlu olacak şekilde tasarlanmıştır.
+- **React Router**: Kullanıcıların sayfalar arasında hızlı bir şekilde geçiş yapabilmesi için React Router kullanılmıştır.
+- **Modern Arayüz**: Kullanıcı dostu, sade ve modern bir tasarım uygulanmıştır.
+
+<div align="center">
+  <img src="src/assets/gif-1.gif" alt="Proje Görseli" width="500">
+</div>
+
+## Kullanılan Teknolojiler
+
+- **React**: Arayüz bileşenleri oluşturmak için.
+- **React Router**: Sayfa geçişleri sağlamak için.
+- **CSS**: Tasarım ve düzenlemeler için.
+
+<div align="center">
+  <img src="src/assets/home-image.png" alt="Proje Görseli" width="500">
+  <img src="src/assets/contact-image.png" alt="Proje Görseli" width="500">
+</div>
+
+<br>
+
+<a href="/" style="font-size: 24px;color: green;">Web Siteye Şuanlık Erişilemiyor.</a>
+
